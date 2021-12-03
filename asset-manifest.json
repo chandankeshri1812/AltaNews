@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/altanews/static/css/main.19cbe7ee.chunk.css",
+    "main.js": "/altanews/static/js/main.ffa8cbfb.chunk.js",
+    "main.js.map": "/altanews/static/js/main.ffa8cbfb.chunk.js.map",
+    "runtime-main.js": "/altanews/static/js/runtime-main.df899f3c.js",
+    "runtime-main.js.map": "/altanews/static/js/runtime-main.df899f3c.js.map",
+    "static/js/2.51179c49.chunk.js": "/altanews/static/js/2.51179c49.chunk.js",
+    "static/js/2.51179c49.chunk.js.map": "/altanews/static/js/2.51179c49.chunk.js.map",
+    "index.html": "/altanews/index.html",
+    "static/css/main.19cbe7ee.chunk.css.map": "/altanews/static/css/main.19cbe7ee.chunk.css.map",
+    "static/js/2.51179c49.chunk.js.LICENSE.txt": "/altanews/static/js/2.51179c49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df899f3c.js",
+    "static/js/2.51179c49.chunk.js",
+    "static/css/main.19cbe7ee.chunk.css",
+    "static/js/main.ffa8cbfb.chunk.js"
+  ]
+}
